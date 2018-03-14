@@ -81,9 +81,16 @@ celerybeat-schedule
 # virtualenv
 venv/
 ENV/
+segan_env
 
 # Spyder project settings
 .spyderproject
 
 # Rope project settings
 .ropeproject
+
+# data 
+data/
+
+# VScode
+.vscode
